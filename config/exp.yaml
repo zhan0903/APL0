@@ -1,0 +1,10 @@
+---
+# -------------------- setting before run exps --------------------
+plot_name: GCQL
+engine: GCQL
+exp_name: GCQL
+version: v0
+data_dir: ./test_data/
+offline_training_steps: 10000
+## -------------------- end exp setting  ------------------------------------
+
