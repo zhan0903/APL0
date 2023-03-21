@@ -1,6 +1,6 @@
 # APL
 
-This is the source code for the paper "Adaptive Policy Learning for Offline-to-Online Reinforcement Learning".
+This is the source code for the paper "Adaptive Policy Learning for Offline-to-Online Reinforcement Learning"(AAAI2023).
 
 ## Environment
 Tested on pytorch1.4, mojuco210, python3.8
